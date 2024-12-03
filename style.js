@@ -1,4 +1,4 @@
-function greeting(dienstgrad, name) {
+function greeting_person(dienstgrad, name) {
     return `Guten Tag, ${dienstgrad} ${name}!`;
 }
 
