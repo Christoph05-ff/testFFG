@@ -2,3 +2,7 @@ body{
     background-color: yellowgreen;
     padding: 20px;
 }
+
+button{
+    background-color: brown;
+}
